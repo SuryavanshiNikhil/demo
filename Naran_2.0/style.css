@@ -58,8 +58,8 @@ html, body{
     border: none;
 }
 #bts :hover{
-   /* background-color: rgb(255, 255, 255);
-   color: black; */
-   padding: 7px 15px;
+   background-color: rgb(255, 255, 255);
+   color: black;
+   padding: 5px 20px;
 }
 
